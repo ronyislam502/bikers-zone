@@ -1,0 +1,7 @@
+.image_box{
+    position: relative;
+}
+.image_btn{
+    position: absolute;
+    bottom: 50%;
+}
